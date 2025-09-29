@@ -1,61 +1,67 @@
-# Hi — I’m Alee 👋
-**Entrepreneur · Machine Learning / NLP Engineer**  
-Focusing on PyTorch, Hugging Face, and production-ready NLP solutions.
+# 👋 Hello, I'm Alee Kolachi!
+
+### 🤖 AI & Machine Learning Researcher
+
+Passionate about pushing the boundaries of artificial intelligence through cutting-edge research and practical applications. Specializing in deep learning, model optimization, and efficient AI systems.
+
+---
+![Visitors](https://komarev.com/ghpvc/?username=alee-kolachi&color=blueviolet&style=flat-square)
+---
+
+## 🛠️ Technical Expertise
+
+**Machine Learning & Deep Learning** • **PyTorch** • **Hugging Face** • **LoRA/QLoRA** • **Quantization** • **Transformers** • **Model Optimization** • **NLP** • **Computer Vision**
+
+---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/alee-kolachi-324122167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alee-kolachi" height="30" width="40" /></a>
+<a href="mailto:alee.kolachi@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="alee.kolachi@gmail.com" height="30" width="40" /></a>
+<a href="https://x.com/alee_kolachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alee_kolachi" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://huggingface.co/" target="_blank"> <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/> </a>
+<a href="https://spacy.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png" alt="spacy" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" alt="fastapi" width="40" height="40"/> </a>
+</p>
+
+
 
 ---
 
-## About Me
-- Building practical ML & NLP solutions using **PyTorch**, **Hugging Face**, and modern pipelines.
-- I combine hands-on engineering with product focus — from model training to integrations and deployment.
-- Current interests: transformer fine-tuning, inference optimization, IR & retrieval-augmented generation (RAG), and model evaluation.
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alee-kolachi&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alee-kolachi&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alee-kolachi&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-## Tech & Tools
-- **Languages:** Python, JavaScript, HTML/CSS, Java
-- **ML / NLP:** PyTorch, Hugging Face Transformers, tokenizers, datasets, spaCy
-- **Infra & DevOps:** Docker, GitHub Actions, REST APIs
-- **Other:** Firebase (auth), web dev fundamentals
+## 🔬 Research Interests
+
+- **Parameter-Efficient Fine-tuning** (LoRA, QLoRA, PEFT)
+- **Model Quantization** & Compression
+- **Large Language Models** & Transformers
+- **Efficient Inference** Optimization
+- **Multimodal AI** Systems
 
 ---
 
-## Pinned projects
-(Selected repos from my profile — more in my repositories.)
-- **image-recognition-and-file-organization** — practical image classification + local file organization pipeline.  
-- **Skrill-Page** — frontend page using HTML & CSS.  
-- **simple-login-signup-firebase-auth** — demo of Firebase Authentication (login/signup flow).  
-- **ScrapeAPI** — scraping API for structured biographical data.  
-- **my-android-projects** — Android practice projects.  
+<div align="center">
 
-*(See my repositories for details and code examples.)*
+### 💡 *"Innovation in AI happens at the intersection of theory and practice"*
 
----
-
-## Work & Contributions
-- I’m building and experimenting with fine-tuning transformer models and inference workflows for real applications.
-- I contribute code and experiments in repositories that explore image recognition, scraping, and auth integration patterns.
-
----
-
-## How to reach me
-- GitHub: [@alee-kolachi](https://github.com/alee-kolachi)  
-- (Add email / LinkedIn / Twitter here if you want public contact links)
-
----
-
-## GitHub stats
-<!-- Replace USERNAME with your username in the two URLs below if you copy these badges -->
-[![Alee's GitHub stats](https://github-readme-stats.vercel.app/api?username=alee-kolachi&show_icons=true&theme=radical)](https://github.com/alee-kolachi)
-
----
-
-## Quick roadmap
-- Short-term: publish a Hugging Face demo notebook and a PyTorch fine-tuning example with README and inference guide.  
-- Medium-term: add CI / Actions for model tests and bring a minimal deployment example (Docker + FastAPI).
-
----
-
-If you'd like, I can also:
-- Add a one-click demo badge (Hugging Face Space or binder) for a specific repo.
-- Produce a short example notebook README for a PyTorch+HF fine-tuning pipeline.
-
+</div>
