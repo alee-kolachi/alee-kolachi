@@ -12,7 +12,7 @@ I design, train, and deploy AI models that handle diverse data types and help bu
 
 - Image classification, object detection, segmentation  
 - CNNs, Transformers / ViTs  
-- PyTorch, TorchVision, YOLO (v5–v9)  
+- PyTorch, TorchVision, YOLO (v5–v11)  
 - OpenCV, data preprocessing, augmentation, annotation workflows  
 - Model training, fine-tuning, evaluation, optimization, deployment (FastAPI)
 
