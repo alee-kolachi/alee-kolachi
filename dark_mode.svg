@@ -1,1 +1,117 @@
 &lt;?xml version='1.0' encoding='UTF-8'?&gt;
+&lt;svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1126px" height="707px" font-size="16px"&gt;
+&lt;style&gt;
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+&lt;/style&gt;
+&lt;rect width="1126px" height="707px" fill="#161b22" rx="15"/&gt;
+&lt;text x="15" y="20" fill="#c9d1d9" class="ascii" font-size="8px" font-family="Consolas,Menlo,monospace"&gt;
+&lt;tspan x="15" y="20"&gt;&lt;/tspan&gt;
+&lt;tspan x="15" y="29"&gt;&lt;/tspan&gt;
+&lt;tspan x="15" y="38"&gt;                                       +:%@%%#@@%%%%+=&lt;/tspan&gt;
+&lt;tspan x="15" y="47"&gt;                                    =@@@@@@@@@@@@#=@@@@@@%.&lt;/tspan&gt;
+&lt;tspan x="15" y="56"&gt;                                 +*@@@@@@= +.-@=@#*.=  @@@@@..&lt;/tspan&gt;
+&lt;tspan x="15" y="65"&gt;                               *@@@# .:= *@@ @. @@@- @  -@:#@-#&lt;/tspan&gt;
+&lt;tspan x="15" y="74"&gt;                             %%@@=+@#%%%*-= @=@+ =-@-@@+@@%*@@@-&lt;/tspan&gt;
+&lt;tspan x="15" y="83"&gt;                            -@%=+@@%@@@@@@@@#@@@@:@@@@*%  @ @-*@-&lt;/tspan&gt;
+&lt;tspan x="15" y="92"&gt;                            %@@@@@: =@@@@@@@@@@@@@@@@@@@@@@*@@+@.:&lt;/tspan&gt;
+&lt;tspan x="15" y="101"&gt;                          -%@@@@ :@@@@@+... .  .      #%@@@@@+##+=&lt;/tspan&gt;
+&lt;tspan x="15" y="110"&gt;                         %#@@@#  @@@.            ....      .#@@@%:-+- .&lt;/tspan&gt;
+&lt;tspan x="15" y="119"&gt;                         %@@@@ @@@:  .:..:..::::::::::::...   -##: =+:@&lt;/tspan&gt;
+&lt;tspan x="15" y="128"&gt;                        :*@@@:@@@. ..:..::--::::::::.:.:::::.. ++@=.:==&lt;/tspan&gt;
+&lt;tspan x="15" y="137"&gt;                        @@@@@@@@: .:::---::::..:::::::::-::::..=@.+@..-&lt;/tspan&gt;
+&lt;tspan x="15" y="146"&gt;                        %@@@@#@@..:::::..:::::::.::..:::::-:::.-@# @@.=&lt;/tspan&gt;
+&lt;tspan x="15" y="155"&gt;                        *%@@@@@:..            .-...      ...::.-@.:@@@*&lt;/tspan&gt;
+&lt;tspan x="15" y="164"&gt;                          %@@@+   #@@@@@@+-=+  -..-.         ..-#*@@@@&lt;/tspan&gt;
+&lt;tspan x="15" y="173"&gt;                          %@@@  @@@@@%@@@@@@#--=--*@@@@@@@@@@- .-*@%@+.&lt;/tspan&gt;
+&lt;tspan x="15" y="182"&gt;                            @@  @         .-+:.+:=-..       #@*.+@*@%*&lt;/tspan&gt;
+&lt;tspan x="15" y="191"&gt;                             @ .:.*@@@@@-+ .+=.  .::+*@@@@:.  = .*@@-&lt;/tspan&gt;
+&lt;tspan x="15" y="200"&gt;                             @ ..@@# @@- +*-+=:..:-*#..@@.-@#.:.+@@&lt;/tspan&gt;
+&lt;tspan x="15" y="209"&gt;                               ...:::. .:..-==:.:.::-=-..:=#-...*=&lt;/tspan&gt;
+&lt;tspan x="15" y="218"&gt;                            ::*.:..... ....:-=:.:::..::........:: +*&lt;/tspan&gt;
+&lt;tspan x="15" y="227"&gt;                            ..@.:::::.::-.:++=::.:--:..::.....::- -.&lt;/tspan&gt;
+&lt;tspan x="15" y="236"&gt;                              @ -::::::::.+=:.    .::....:::..:.==&lt;/tspan&gt;
+&lt;tspan x="15" y="245"&gt;                              @ --::.::::.-.-@.. :@....:..:-::..#-&lt;/tspan&gt;
+&lt;tspan x="15" y="254"&gt;                              @ .:--:-:...::.. -.  .........:: -@:&lt;/tspan&gt;
+&lt;tspan x="15" y="263"&gt;                              @  ..:..     .@@@ .@@%=     .::..@@&lt;/tspan&gt;
+&lt;tspan x="15" y="272"&gt;                              @%+ ...  @++@@@@@@@@@@@@ +*: .. .@*&lt;/tspan&gt;
+&lt;tspan x="15" y="281"&gt;                               @@=.. :@@@@@%* . #@ :@@@@@@-   @=&lt;/tspan&gt;
+&lt;tspan x="15" y="290"&gt;                               +@@-  :@=. . : -.  .. -==%@-  @*&lt;/tspan&gt;
+&lt;tspan x="15" y="299"&gt;                                *@@@. -.   :--.    .    .= ::+&lt;/tspan&gt;
+&lt;tspan x="15" y="308"&gt;                                 *%@@:@  .. . ..-#.....  ..@@&lt;/tspan&gt;
+&lt;tspan x="15" y="317"&gt;                                  =*@@-   ...-@@@@#+..  -*@@@:&lt;/tspan&gt;
+&lt;tspan x="15" y="326"&gt;                                   #@@@@%-:..-@@%@:.. -*@@@ @:&lt;/tspan&gt;
+&lt;tspan x="15" y="335"&gt;                                     @=@@@@*:#=@=%=#@**=@@  @@&lt;/tspan&gt;
+&lt;tspan x="15" y="344"&gt;                                 %  @ @@*@@@@.+@@=...*@@%  .@@ @&lt;/tspan&gt;
+&lt;tspan x="15" y="353"&gt;                             :.+#*-#@  =@@@%@@%@.+@@@@@   :@@+ @&lt;/tspan&gt;
+&lt;tspan x="15" y="362"&gt;                           -+%#@#=+@@    .@@@@@@@@@%.    @@@@ @@-@@@*#@+&lt;/tspan&gt;
+&lt;tspan x="15" y="371"&gt;                          =#@@@#@%%@@ -...         ..  .@@@@ -@+  .@@@:  .&lt;/tspan&gt;
+&lt;tspan x="15" y="380"&gt;                    : =@@%%@@@#:@#+@= *.::::........  :@%@@  @@*#@@#@@@%   .&lt;/tspan&gt;
+&lt;tspan x="15" y="389"&gt;              --@@@@%%@#-@@@#%@*@%%@: -=.:::::::...  @@#%@* @@==+@@@@*@@@- .-&lt;/tspan&gt;
+&lt;tspan x="15" y="398"&gt;               =##@@@@#+#@@-@@+#@@@@. .*:.::::...  @@@=+@% =@##*@*@  @@@@@= *@&lt;/tspan&gt;
+&lt;tspan x="15" y="407"&gt;           +@@@#*@@  =#%@@:*@ #@. @@=..-*. .::.  .@@.%%@@ .@@*=@+%@  @@@.=@@ %.&lt;/tspan&gt;
+&lt;tspan x="15" y="416"&gt;           @@+=*@@  @@%@@ :. #@+@% .-..--....   @@@*@@@@  @@% @*%@@= @+ .@#:@ @@@@&lt;/tspan&gt;
+&lt;tspan x="15" y="425"&gt;        :@@%#%+@@  @*@@  @@@@@=*%@@.  ...:.   @@@@%=:+@  @@+ @@#@@-:@@:%%++*%@@@.@@&lt;/tspan&gt;
+&lt;tspan x="15" y="434"&gt;        @@%@@#@@  @@=@  @@*@=-=@@#*@:+ :--  @@@:+= =@@  @* .*##%@@: @%*#@@@+  +@@@-*@@@=&lt;/tspan&gt;
+&lt;tspan x="15" y="443"&gt;       @%##@@@% @@@#@@ @@@@-:@=*@%+@@..-  %@@@%##@@@+  @+#@:%##@@=@@@=*@  :@%@@@  #   #@.&lt;/tspan&gt;
+&lt;tspan x="15" y="452"&gt;      @@@@@ -= @@@%@. @@*@@@+%=+#%#%#    @@@@@@@:@:@@@@@*+ @@@@@+= @@:@@#  @@@* -@%@@@  *@.&lt;/tspan&gt;
+&lt;tspan x="15" y="461"&gt;     @@%@  =@ @@%@*% .@%=##%@:@%%@#+@%@@@@@@@+   =+%@+#+@@.%+@@=:.%@#%@:=@   @==@@:+#@@@  =*&lt;/tspan&gt;
+&lt;tspan x="15" y="470"&gt;  @.=@###+@@ -@@@@=#*@@@#%#%@ @+**@*@*       @ @@%#@#-*%  @@@* .#%@%=*@:*@@@  %@@+=#%#*#*%= :&lt;/tspan&gt;
+&lt;tspan x="15" y="479"&gt;   *@##**%@@@@%%@*#@%*@@*#*@@ @@=%%# %@@@@@@@@ @+@###@@@  @@@-*@:-@-%%@#@+.@@@  @@*=#**=+@@% +=&lt;/tspan&gt;
+&lt;tspan x="15" y="488"&gt;  @@@@*+*@@ -**#@-@**+%@#*+@ @@@@#+#+@-+=+#*@. @-#@*#*@@= @@@=** @%=*%@@* -%@@@  #@@#++@@# -@  .&lt;/tspan&gt;
+&lt;tspan x="15" y="497"&gt; @@*=-@@@@  @%*+@:@:+%*###@@ @%#%@#+=@@=***+@  @%+*#@%#@+ @@*.*@ @=%#@@%-+%@@:@@   @@@@% .#+=*  %&lt;/tspan&gt;
+&lt;tspan x="15" y="506"&gt; @**#*##@% @@*#*@*@  @*#%*@@ @%#%#@*  @*=**#@ @@#*%%%-@@ :@@+-=@ @#@%@@:+%@@++#@@@  @@ :++-=@@@#&lt;/tspan&gt;
+&lt;tspan x="15" y="515"&gt;-@*###%@@ .@**##+@@ +@*%*#@ #@#@*++@@ @@###@% @#%*@#%@@@ @@*-:@@ *%%#@*=*@@*-@*##@@:@:+**@@@@-   #+&lt;/tspan&gt;
+&lt;tspan x="15" y="524"&gt;:###**@@  @@**+=+@= @@=#*@@ *@%%%#*@ @ @:+*@  @=####*%@ @@#..:@@=@%@@@@@@@+.#@%#@@  +@@@@*.  +%@ .*&lt;/tspan&gt;
+&lt;tspan x="15" y="533"&gt;.%#*#@@  @@@*+##@@  @#*#@@  @%%*##*@ @@@=##@  @%#*%@%@@ @@%=*%@+ @%@@  @@@.@%#@@+@@ #@+-..=#*++*= +&lt;/tspan&gt;
+&lt;tspan x="15" y="542"&gt; *@+#@  @@%@**#+@@ :@%*#@* +@%%=#%@@ @@*+#=@ +@##%@%@@  @*+:*@@@:@#@@@   @@@%@%%@@  @%=#%%%@+*+#@ .&lt;/tspan&gt;
+&lt;tspan x="15" y="551"&gt;=@@@@  @*#@@%##-@@ %@+%*@  @@%%**-@@ #@++#%@ @@*#%@@@@ @@@#*@@+@@@=@@@@@=*@@@@@#=@* .@@#+=*+-:-:+*&lt;/tspan&gt;
+&lt;tspan x="15" y="560"&gt;  .@# @@@@@@%+*%@: @@##@* @@=%#%*+@= @@:+#@% @@*%@%%#@ @**+*%%*%- #*@@#@@  @@@##%@@  @@@@#*@@@@@@@+&lt;/tspan&gt;
+&lt;tspan x="15" y="569"&gt; .     .*@@@@**%@  @#@%@  @%%#*#%+@  @@=+*@  @@@@@@*#@ @@@**#%%@@@@*%@@%@@@%%@%@@@@@  @@*%#+*:.  .=&lt;/tspan&gt;
+&lt;tspan x="15" y="578"&gt; .::...     @#%%@ -@%##@ @@**%@++*@  @@=+*@  @*@@%***@ %@@-*%@*+@  @+@@@@@%@@@@@@@@@@  @#*#--.-#%+@&lt;/tspan&gt;
+&lt;tspan x="15" y="587"&gt; :::.:::.   @##@@ @@%*=@ @#*+%@++#@ ##@=+%@ @@@@#++##@ @@@#%%%#+@@#@#*@@@@@@@@%%#+#@@  @@@@@##@*#%@&lt;/tspan&gt;
+&lt;tspan x="15" y="596"&gt; ....:::    =++@  @@##%@+ @*+%*%**@ +-@:=@@ @@@#*#@#*@  @@#*%#@%@@ =@@%@@@@@@@@@@@%%@  @@=:#%@**+==&lt;/tspan&gt;
+&lt;tspan x="15" y="605"&gt; ::::::      *@@ :@%#@@@@@@@+%*:#*@@@=@*@@  @@=*@*++@@  @@%-%@@*#@  @@%%@@@@ @@#%@%#@@  @#*#:+===:=&lt;/tspan&gt;
+&lt;tspan x="15" y="614"&gt; :::::=      .@@ @@*#%*#@: @*@@+##@ *%%*%@ +@@*%+**%*@  @@@+@*@#%@@ @@%@%%@@*@@@%@*%@@  @@%@@@@#++#&lt;/tspan&gt;
+&lt;tspan x="15" y="623"&gt; :.::=        @  @%%###@@@ **%*@*@  @#=*@@ @@=+*%**@+@. @@%:%+@@@@@  @%@%@%@@ @@%@@@@@@ #@@@@%@@@@@&lt;/tspan&gt;
+&lt;tspan x="15" y="632"&gt; .:::         @ %@****%#@% %@#*#+@  @@-@@- @@*##%*=%@@  @@@#@%+***@  @%*%*#%@+@@@@@@.&lt;/tspan&gt;
+&lt;tspan x="15" y="641"&gt; ::-         :@ @@%##%+@@+ @@%%%@@ :%@=@@% +@@=#%%**%@@ @@@*###%@#@: @@%#%#=#+ @%     .:::..:.::::.&lt;/tspan&gt;
+&lt;tspan x="15" y="650"&gt; :            @ @%#=#+#%@  @#%@#@# .#@=-*@  %@#@=@@%#%@ @@@%=#%*##@@ @+*#***@#% ...:::::::::..:....&lt;/tspan&gt;
+&lt;tspan x="15" y="659"&gt;              %.@%%%%###@. @**@%@@  @@+++@@ *@@%@#++%%@  @@%=*%%*#@@ @%#**#*=*@ --:-:::::::::::::::&lt;/tspan&gt;
+&lt;tspan x="15" y="668"&gt;               @ *......+  *. . ==   *%.. *  +. :  :. =  #=.      .: -&lt;/tspan&gt;
+&lt;/text&gt;
+&lt;text x="530" y="158" fill="#c9d1d9"&gt;
+&lt;tspan x="530" y="158"&gt;alee@kolachi&lt;/tspan&gt; ------------------------------------------------------------
+&lt;tspan x="530" y="178" class="cc"&gt;. &lt;/tspan&gt;&lt;tspan class="key"&gt;Uptime&lt;/tspan&gt;:&lt;tspan class="cc" id="age_data_dots"&gt; ........................ &lt;/tspan&gt;&lt;tspan x="1106" y="178" text-anchor="end" class="value" id="age_data"&gt;0 years, 0 months, 0 days&lt;/tspan&gt;
+&lt;tspan x="530" y="198" class="cc"&gt;. &lt;/tspan&gt;&lt;tspan class="key"&gt;Host&lt;/tspan&gt;:&lt;tspan class="cc"&gt; ........................................... &lt;/tspan&gt;&lt;tspan x="1106" y="198" text-anchor="end" class="value"&gt;BoringOrca&lt;/tspan&gt;
+&lt;tspan x="530" y="218" class="cc"&gt;. &lt;/tspan&gt;&lt;tspan class="key"&gt;Role&lt;/tspan&gt;:&lt;tspan class="cc"&gt; ............ &lt;/tspan&gt;&lt;tspan x="1106" y="218" text-anchor="end" class="value"&gt;AI Engineer, Agentic &amp;amp; Multimodal Systems&lt;/tspan&gt;
+&lt;tspan x="530" y="238" class="cc"&gt;. &lt;/tspan&gt;&lt;tspan class="key"&gt;AI Tools&lt;/tspan&gt;:&lt;tspan class="cc"&gt; .......................... &lt;/tspan&gt;&lt;tspan x="1106" y="238" text-anchor="end" class="value"&gt;Claude Code, OpenAI API&lt;/tspan&gt;
+&lt;tspan x="530" y="258" class="cc"&gt;. &lt;/tspan&gt;
+&lt;tspan x="530" y="278" class="cc"&gt;. &lt;/tspan&gt;&lt;tspan class="key"&gt;Languages&lt;/tspan&gt;&lt;tspan class="key"&gt;.&lt;/tspan&gt;&lt;tspan class="key"&gt;Programming&lt;/tspan&gt;:&lt;tspan class="cc"&gt; .............................. &lt;/tspan&gt;&lt;tspan x="1106" y="278" text-anchor="end" class="value"&gt;Python&lt;/tspan&gt;
+&lt;tspan x="530" y="298" class="cc"&gt;. &lt;/tspan&gt;&lt;tspan class="key"&gt;Languages&lt;/tspan&gt;&lt;tspan class="key"&gt;.&lt;/tspan&gt;&lt;tspan class="key"&gt;Stack&lt;/tspan&gt;:&lt;tspan class="cc"&gt; ............. &lt;/tspan&gt;&lt;tspan x="1106" y="298" text-anchor="end" class="value"&gt;PyTorch, LangChain, LangGraph&lt;/tspan&gt;
+&lt;tspan x="530" y="318" class="cc"&gt;. &lt;/tspan&gt;
+&lt;tspan x="530" y="338" class="cc"&gt;. &lt;/tspan&gt;&lt;tspan class="key"&gt;Hobbies&lt;/tspan&gt;&lt;tspan class="key"&gt;.&lt;/tspan&gt;&lt;tspan class="key"&gt;Tech&lt;/tspan&gt;:&lt;tspan class="cc"&gt; .......................... &lt;/tspan&gt;&lt;tspan x="1106" y="338" text-anchor="end" class="value"&gt;Workflow Automation&lt;/tspan&gt;
+&lt;tspan x="530" y="358" class="cc"&gt;. &lt;/tspan&gt;&lt;tspan class="key"&gt;Hobbies&lt;/tspan&gt;&lt;tspan class="key"&gt;.&lt;/tspan&gt;&lt;tspan class="key"&gt;Life&lt;/tspan&gt;:&lt;tspan class="cc"&gt; ....................................... &lt;/tspan&gt;&lt;tspan x="1106" y="358" text-anchor="end" class="value"&gt;Hiking&lt;/tspan&gt;
+&lt;tspan x="530" y="378" class="cc"&gt;. &lt;/tspan&gt;
+&lt;tspan x="530" y="398"&gt;- Contact&lt;/tspan&gt; ----------------------------------------------------------
+&lt;tspan x="530" y="418" class="cc"&gt;. &lt;/tspan&gt;&lt;tspan class="key"&gt;Email&lt;/tspan&gt;:&lt;tspan class="cc"&gt; .............................. &lt;/tspan&gt;&lt;tspan x="1106" y="418" text-anchor="end" class="value"&gt;alee.kolachi@gmail.com&lt;/tspan&gt;
+&lt;tspan x="530" y="438" class="cc"&gt;. &lt;/tspan&gt;&lt;tspan class="key"&gt;LinkedIn&lt;/tspan&gt;:&lt;tspan class="cc"&gt; ........................... &lt;/tspan&gt;&lt;tspan x="1106" y="438" text-anchor="end" class="value"&gt;alee-kolachi-324122167&lt;/tspan&gt;
+&lt;tspan x="530" y="458" class="cc"&gt;. &lt;/tspan&gt;&lt;tspan class="key"&gt;X / Twitter&lt;/tspan&gt;:&lt;tspan class="cc"&gt; ................................. &lt;/tspan&gt;&lt;tspan x="1106" y="458" text-anchor="end" class="value"&gt;@alee_kolachi&lt;/tspan&gt;
+&lt;tspan x="530" y="478" class="cc"&gt;. &lt;/tspan&gt;
+&lt;tspan x="530" y="498"&gt;- GitHub Stats&lt;/tspan&gt; ----------------------------------------------------------
+&lt;tspan x="530" y="518" class="cc"&gt;. &lt;/tspan&gt;&lt;tspan class="key"&gt;Repos&lt;/tspan&gt;:&lt;tspan class="cc" id="repo_data_dots"&gt; ..... &lt;/tspan&gt;&lt;tspan class="value" id="repo_data"&gt;0&lt;/tspan&gt; {&lt;tspan class="key"&gt;Contributed&lt;/tspan&gt;: &lt;tspan class="value" id="contrib_data"&gt;0&lt;/tspan&gt;} | &lt;tspan class="key"&gt;Stars&lt;/tspan&gt;:&lt;tspan class="cc" id="star_data_dots"&gt; ............. &lt;/tspan&gt;&lt;tspan class="value" id="star_data"&gt;0&lt;/tspan&gt;
+&lt;tspan x="530" y="538" class="cc"&gt;. &lt;/tspan&gt;&lt;tspan class="key"&gt;Commits&lt;/tspan&gt;:&lt;tspan class="cc" id="commit_data_dots"&gt; ..................... &lt;/tspan&gt;&lt;tspan class="value" id="commit_data"&gt;0&lt;/tspan&gt; | &lt;tspan class="key"&gt;Followers&lt;/tspan&gt;:&lt;tspan class="cc" id="follower_data_dots"&gt; ......... &lt;/tspan&gt;&lt;tspan class="value" id="follower_data"&gt;0&lt;/tspan&gt;
+&lt;tspan x="530" y="558" class="cc"&gt;. &lt;/tspan&gt;&lt;tspan class="key"&gt;Lines of Code on GitHub&lt;/tspan&gt;:&lt;tspan class="cc" id="loc_data_dots"&gt; ........ &lt;/tspan&gt;&lt;tspan class="value" id="loc_data"&gt;0&lt;/tspan&gt; ( &lt;tspan class="addColor" id="loc_add"&gt;0&lt;/tspan&gt;&lt;tspan class="addColor"&gt;++&lt;/tspan&gt;, &lt;tspan id="loc_del_dots"&gt; ...... &lt;/tspan&gt;&lt;tspan class="delColor" id="loc_del"&gt;0&lt;/tspan&gt;&lt;tspan class="delColor"&gt;--&lt;/tspan&gt; )
+&lt;/text&gt;
+&lt;/svg&gt;
