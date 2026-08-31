@@ -1,10 +1,17 @@
 # 👋 Hello, I'm Alee Kolachi!
 
+<a href="https://github.com/alee-kolachi/alee-kolachi">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alee-kolachi/alee-kolachi/main/dark_mode.svg">
+    <img alt="Alee Kolachi's GitHub profile card" src="https://raw.githubusercontent.com/alee-kolachi/alee-kolachi/main/light_mode.svg">
+  </picture>
+</a>
+
 # AI Engineer — Multimodal & Agentic Systems
 
 I’m an AI Engineer working on building multimodal and agentic AI systems that deliver real, practical impact.
 
-I design, train, and deploy AI models that handle diverse data types and help businesses solve tangible problems. My experience spans computer vision and natural language processing, along with building production-ready AI pipelines and agentic systems.
+My experience spans computer vision and natural language processing, along with building production-ready AI pipelines and agentic systems.
 
 ---
 
