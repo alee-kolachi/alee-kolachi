@@ -93,7 +93,7 @@ text, tspan {white-space: pre;}
 </text>
 <text x="530" y="158" fill="#c9d1d9">
 <tspan x="530" y="158">alee@kolachi</tspan> ------------------------------------------------------------
-<tspan x="530" y="178" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................... </tspan><tspan x="1106" y="178" text-anchor="end" class="value" id="age_data">27 years, 8 months, 9 days</tspan>
+<tspan x="530" y="178" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan x="1106" y="178" text-anchor="end" class="value" id="age_data">27 years, 8 months, 10 days</tspan>
 <tspan x="530" y="198" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ........................................... </tspan><tspan x="1106" y="198" text-anchor="end" class="value">BoringOrca</tspan>
 <tspan x="530" y="218" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ............ </tspan><tspan x="1106" y="218" text-anchor="end" class="value">AI Engineer, Agentic &amp; Multimodal Systems</tspan>
 <tspan x="530" y="238" class="cc">. </tspan><tspan class="key">AI Tools</tspan>:<tspan class="cc"> .......................... </tspan><tspan x="1106" y="238" text-anchor="end" class="value">Claude Code, OpenAI API</tspan>
